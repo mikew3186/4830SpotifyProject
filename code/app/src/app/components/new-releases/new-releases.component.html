@@ -1,0 +1,25 @@
+<ul class="list-group">
+    <li class="list-group-item">Select the number of new releases you want to display (1-10):</li>
+  </ul>
+
+<form [formGroup]="setLimitForm" (ngSubmit)="changeLimit()">
+    <input type='number' formControlName="limiter">
+    <input type='submit' [disabled]="!setLimitForm.valid">
+</form>
+
+<table class="table" *ngIf="newReleases">
+<tr>
+    <th>Main Artist</th>
+    <th>Album or Single?</th>
+    <th>Title</th>
+    <th>Image</th>
+</tr>
+<tbody>
+    <tr *ngFor="let item of newReleases.items">
+    <td>{{item.artists[0].name}}</td>
+    <td>{{item.album_type}}</td>
+    <td>{{item.name}}</td>
+    <td><img src="{{item.images[0].url}}" width="40px" height="40px"></td>
+    </tr>
+</tbody>
+</table>

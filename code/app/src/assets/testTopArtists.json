@@ -1,0 +1,407 @@
+{
+    "items": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+            },
+            "followers": {
+                "href": null,
+                "total": 730252
+            },
+            "genres": [
+                "alternative hip hop",
+                "dirty south rap",
+                "gangster rap",
+                "hip hop",
+                "new orleans rap",
+                "pop rap",
+                "rap",
+                "southern hip hop",
+                "underground hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6X8WdFjrNhXATMDSs26aCc",
+            "id": "6X8WdFjrNhXATMDSs26aCc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/6d36543f19bb843d018380f7b68941b5b8eaa164",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/7b2dce783e89651b88574bb426ac9448d3d54f6e",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/320fd1b31f1bd5cba39e8d3b5ce2baf3e32de452",
+                    "width": 160
+                }
+            ],
+            "name": "Curren$y",
+            "popularity": 68,
+            "type": "artist",
+            "uri": "spotify:artist:6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+            },
+            "followers": {
+                "href": null,
+                "total": 2087440
+            },
+            "genres": [
+                "australian dance",
+                "australian electropop",
+                "australian indie",
+                "downtempo",
+                "edm"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+            "id": "6nxWCVXbOlEVRexSbLsTer",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/0436e3871c9f88b8f83559a70fd8d2f22cb3fd01",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/6b58820d8b73ed2e61d27121c0802d7631414d6d",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/7ac9ab91bd347f8eb5fb451be780a805624617b3",
+                    "width": 160
+                }
+            ],
+            "name": "Flume",
+            "popularity": 78,
+            "type": "artist",
+            "uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+            },
+            "followers": {
+                "href": null,
+                "total": 744175
+            },
+            "genres": [
+                "escape room",
+                "indie soul",
+                "lgbtq+ hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+            "id": "6qgnBH6iDM91ipVXv28OMu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/438d3d8b6dd3b5544407bc9b95121750799b4eb2",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/7397d7d5031c1ea250bc81ca993414a6fca6577a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/f77a799efdd70f9abf2dac6e673f15886cdb8e5c",
+                    "width": 160
+                }
+            ],
+            "name": "KAYTRANADA",
+            "popularity": 74,
+            "type": "artist",
+            "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+            },
+            "followers": {
+                "href": null,
+                "total": 439627
+            },
+            "genres": [
+                "alternative r&b",
+                "hip hop",
+                "rap",
+                "underground hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1ybINI1qPiFbwDXamRtwxD",
+            "id": "1ybINI1qPiFbwDXamRtwxD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/e651a6f052c3627e2cfdc69a57445203bdb17e03",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/156699cbfd0956d599fb0bd928b0a32d0313d209",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/0a3bf5643e9cea530be8310484f7ce65520e3e2e",
+                    "width": 160
+                }
+            ],
+            "name": "Smino",
+            "popularity": 74,
+            "type": "artist",
+            "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+            },
+            "followers": {
+                "href": null,
+                "total": 147350
+            },
+            "genres": [
+                "chamber psych",
+                "indie rock",
+                "irish indie rock",
+                "modern alternative rock"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+            "id": "3SXwqSqAoBz9WCI9PDQzY6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/d3a9d06738ecc77f963fa63a7b5e57d3609fbf00",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/a3db3fb9b8a71746ac78bc2bd9ab2ba9c1c96520",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/317358aae6ede6ca9ac5981773f32fdaa344b356",
+                    "width": 160
+                }
+            ],
+            "name": "Fontaines D.C.",
+            "popularity": 59,
+            "type": "artist",
+            "uri": "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+            },
+            "followers": {
+                "href": null,
+                "total": 528556
+            },
+            "genres": [
+                "chillwave",
+                "indie folk",
+                "indie pop",
+                "indie rock",
+                "la indie",
+                "modern rock",
+                "rock",
+                "shimmer pop",
+                "stomp and holler",
+                "vapor soul"
+            ],
+            "href": "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+            "id": "75dQReiBOHN37fQgWQrIAJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/672a0083bdcc69c8a1172ef3c764d0ffb3022a58",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/18705710dc715a18ff4341fa7bf915ba4398315a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/9163ac03efdb60a7f573eff6b9905836152b2e98",
+                    "width": 160
+                }
+            ],
+            "name": "Local Natives",
+            "popularity": 68,
+            "type": "artist",
+            "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9"
+            },
+            "followers": {
+                "href": null,
+                "total": 29688
+            },
+            "genres": [
+                "atl hip hop",
+                "trap soul",
+                "underground hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6po19E0R9xffrgzrg84TC9",
+            "id": "6po19E0R9xffrgzrg84TC9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/3bd769f42b87738808ee020bfd1feebde3784eb4",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/8e9fd3955616efa6f1971fe4c9907c5d3968535f",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/8ac0f82152702583b0eec8931e82a986963b6637",
+                    "width": 160
+                }
+            ],
+            "name": "Quentin Miller",
+            "popularity": 51,
+            "type": "artist",
+            "uri": "spotify:artist:6po19E0R9xffrgzrg84TC9"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+            },
+            "followers": {
+                "href": null,
+                "total": 72972
+            },
+            "genres": [
+                "chamber psych",
+                "indie rock",
+                "modern alternative rock",
+                "modern jangle pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/65mMkD9WW39U9Yadv0dWUF",
+            "id": "65mMkD9WW39U9Yadv0dWUF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/95eb91aca2e47585206a69c7bc9278dd0b655ac2",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ddee29d9937527f2f6feb8ebfd7876ae8ca7844c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/b435698fc1b4bd12a4e6a12ff25e0b03eec0c570",
+                    "width": 160
+                }
+            ],
+            "name": "Rolling Blackouts Coastal Fever",
+            "popularity": 53,
+            "type": "artist",
+            "uri": "spotify:artist:65mMkD9WW39U9Yadv0dWUF"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+            },
+            "followers": {
+                "href": null,
+                "total": 122447
+            },
+            "genres": [
+                "abstract beats",
+                "alternative hip hop",
+                "alternative r&b",
+                "hip hop",
+                "indie jazz",
+                "indie r&b",
+                "indie soul",
+                "underground hip hop",
+                "wonky"
+            ],
+            "href": "https://api.spotify.com/v1/artists/17Zu03OgBVxgLxWmRUyNOJ",
+            "id": "17Zu03OgBVxgLxWmRUyNOJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/3b3ab325b2223b1ee23557eb85550094c1dc9148",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/b30d6c95789878e49f1a13f14e035df3372c553a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/e0bce05cfd835accd9c0ed46a1fd4dfb47bfed4e",
+                    "width": 160
+                }
+            ],
+            "name": "Knxwledge",
+            "popularity": 63,
+            "type": "artist",
+            "uri": "spotify:artist:17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+            },
+            "followers": {
+                "href": null,
+                "total": 114608
+            },
+            "genres": [
+                "art pop",
+                "chamber psych",
+                "electronica",
+                "escape room",
+                "experimental pop",
+                "freak folk"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0qu422H5MOoQxGjd4IzHbS",
+            "id": "0qu422H5MOoQxGjd4IzHbS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/fe1f620edb7c35cad3fb19fa40a6fe0b0dee3d95",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/cfc4be391262de81aed9a31251f3f7f118736971",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/edf547c7d9a2cdecdc8bfed7ce8b946039b423db",
+                    "width": 160
+                }
+            ],
+            "name": "Yves Tumor",
+            "popularity": 63,
+            "type": "artist",
+            "uri": "spotify:artist:0qu422H5MOoQxGjd4IzHbS"
+        }
+    ],
+    "total": 50,
+    "limit": 10,
+    "offset": 0,
+    "previous": null,
+    "href": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=0",
+    "next": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=10"
+}

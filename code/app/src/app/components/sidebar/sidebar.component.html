@@ -1,0 +1,9 @@
+<div class="btn-group">
+    <button 
+        class="btn btn-secondary" 
+        *ngFor="let c of categories | keyvalue" 
+        (click)="selectItem(c.value)"
+    >
+        {{ c.key }}
+    </button>
+</div>

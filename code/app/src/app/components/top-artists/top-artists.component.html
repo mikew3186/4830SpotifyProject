@@ -1,0 +1,27 @@
+<ul class="list-group">
+  <li class="list-group-item">Compare the x axis value to the Chart Position on the table to see how popular the artist is, based on the popularity value from Spotify</li>
+</ul>
+<div class="chart-wrapper">
+    <canvas baseChart
+    [datasets]="bubbleChartData"
+    [options]="bubbleChartOptions"
+    [legend]="bubbleChartLegend"
+    [chartType]="bubbleChartType">
+  </canvas>
+</div>
+<table class="table" *ngIf="artistList">
+  <tr>
+      <th>Position On Chart</th>
+      <th>Arist</th>
+      <th>Popularity</th>
+      <th>Image</th>
+  </tr>
+  <tbody>
+      <tr *ngFor="let artist of artistList; let chartPosition = index;">
+      <td>{{chartPosition}}</td>
+      <td>{{artist.artistName}}</td>
+      <td>{{artist.popularity}}</td>
+      <td><img src="{{artist.images[0].url}}" width="40px" height="40px"></td>
+      </tr>
+  </tbody>
+  </table>

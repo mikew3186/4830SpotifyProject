@@ -1,0 +1,13 @@
+<nav class="navbar navbar-dark bg-dark sticky-top">
+    <h2>hrmni</h2>
+    <h3 *ngIf="userInfo">Welcome, {{ userInfo.display_name }}!</h3>
+    <button class="btn btn-secondary" (click)="logout()">Logout</button>
+</nav>
+<div id="container">
+    <!-- sidebar @Output emitter 'selector' -->
+    <app-sidebar (selector)="renderSelectedData($event)"></app-sidebar>
+    <div id="main" class="card">
+        <!-- inject the corresponding child component here -->
+        <router-outlet></router-outlet>
+    </div>
+</div>

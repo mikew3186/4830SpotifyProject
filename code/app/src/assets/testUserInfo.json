@@ -1,0 +1,28 @@
+{
+    "country": "US",
+    "display_name": "averywald",
+    "email": "averyjwald@gmail.com",
+    "explicit_content": {
+        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/obfxnkpm7w050105617j9nafq"
+    },
+    "followers": {
+        "href": null,
+        "total": 14
+    },
+    "href": "https://api.spotify.com/v1/users/obfxnkpm7w050105617j9nafq",
+    "id": "obfxnkpm7w050105617j9nafq",
+    "images": [
+        {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab6775700000ee85dd0d373e71b497b348f254bc",
+            "width": null
+        }
+    ],
+    "product": "premium",
+    "type": "user",
+    "uri": "spotify:user:obfxnkpm7w050105617j9nafq"
+}

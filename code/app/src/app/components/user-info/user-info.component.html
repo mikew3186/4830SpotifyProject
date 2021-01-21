@@ -1,0 +1,7 @@
+
+    <ul class="list-group" *ngIf="userInfo">
+        <li class="list-group-item">Country: {{userInfo.country}}</li>
+        <li class="list-group-item">You have {{userInfo.followers.total}} followers</li>
+        <li class="list-group-item">You are a {{userInfo.product}} {{userInfo.type}}</li>
+        <button class="btn-primary"><a href="{{userInfo.external_urls.spotify}}" target="_blank">Your Spotify user page</a></button>
+      </ul>

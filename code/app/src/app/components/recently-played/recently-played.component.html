@@ -1,0 +1,13 @@
+<ul class="list-group">
+  <li class="list-group-item" *ngIf="averageDuration">The average duration of your music is <span class="font-weight-bold">{{minutes}}</span> minutes and <span class="font-weight-bold">{{seconds}}</span> seconds</li>
+  <li class="list-group-item" *ngIf="explicitPercentage"><span class="font-weight-bold">{{explicitPercentage}}%</span> of your music is explicit</li>
+</ul>
+
+<div class="chart-wrapper">
+    <canvas baseChart
+    [datasets]="radarChartData"
+    [options]="radarChartOptions"
+    [labels]="radarChartLabels"
+    [chartType]="radarChartType">
+  </canvas>
+</div>

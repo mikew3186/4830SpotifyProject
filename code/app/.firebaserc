@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "hrmni-bb3a9": {
+      "hosting": {
+        "app": [
+          "hrmni-bb3a9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "hrmni-bb3a9"
+  }
+}
